@@ -37,5 +37,11 @@
   <a href="https://www.tide-lab.cn/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
+
+  <a href="https://www.xiaohongshu.com/user/profile/6389b6f9000000001f01dc24" target="_blank">
+
+  <img src="https://img.shields.io/badge/Xiaohongshu-ff2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" />
+
+</a>
 </p>
 
