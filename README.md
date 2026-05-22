@@ -28,8 +28,8 @@
 
 ### 🤝 Connect with Me 
 <p align="left">
-<a href="https://www.xiaohongshu.com/user/profile/6389b6f9000000001f01dc24" target="_blank">
-  <img src="https://img.shields.io/badge/Xiaohongshu-ff2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" />
+<a href="https://cola-fsm.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/HomePage-0078d4?style=for-the-badge&logo=githubpages&logoColor=white" />
 </a>
   <a href="mailto:fanshiming618@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
