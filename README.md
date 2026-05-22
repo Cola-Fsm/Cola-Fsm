@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.tide-lab.cn/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Lab-000000?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
 
   <a href="https://www.xiaohongshu.com/user/profile/6389b6f9000000001f01dc24" target="_blank">
